@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: auto;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 5px 10px 20px black ;
+}
+
+#header {
+    text-align: center;
+}
+
+.container {
+    text-align: justify;
+    line-height: 35px;
+}
+
+.page-title {
+    text-transform: uppercase;
+}
+
+.recipe-list{
+    list-style-type: none;
+    text-align: center;
+    margin:auto;
+}   
+
+.list-ingredients {
+    list-style: square;
+}
+
+.list-steps {
+    list-style: upper-latin;
+}
+
+
+
